@@ -12,7 +12,7 @@ interface PromotionFormProps {
   categories: any;
   onCreate: (rec: any) => void;
 }
-
+//edit
 export const PromotionForm: React.FC<PromotionFormProps> = (
   props: PromotionFormProps
 ) => {
